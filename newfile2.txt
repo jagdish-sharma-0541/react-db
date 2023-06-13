@@ -1,2 +1,4 @@
 This is a message from newfile2.
 This is line 2 of my message.
+
+This line was added in the afternoon on 13th
