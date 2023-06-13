@@ -1,0 +1,4 @@
+This is a message from newfile2.
+This is line 2 of my message.
+
+This marks the beggining of newfile3.txt
